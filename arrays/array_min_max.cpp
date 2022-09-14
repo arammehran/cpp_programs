@@ -14,9 +14,6 @@ int main(){
     for (int i = 0; i < n; i++){
         max_num = max(max_num, array[i]);
         min_num = min(min_num, array[i]);
-
-        
-
     } 
     cout << "the max is " << max_num << endl;
     cout << "the min is " << min_num << endl;
