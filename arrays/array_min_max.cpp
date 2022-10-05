@@ -5,6 +5,7 @@ int main(){
     int n;
     cin >> n;
     int array[n];
+    // just adding a comment
 
     for(int i = 0; i < n; i++){
         cin >> array[i];
